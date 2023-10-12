@@ -2,5 +2,5 @@
 
 ```
 Publish directory: build
-Build Command: --`
+Build Command: --
 ```
