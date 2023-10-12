@@ -1,4 +1,6 @@
 # test-yo
 
-`Publish directory: build`
-`Build Command: --`
+```
+Publish directory: build
+Build Command: --`
+```
